@@ -1,6 +1,6 @@
 #  Vitor Macedo
 
-> "Um amor, uma carreira, uma revolução: Outras tantas lutas que se começam sem saber como acabarão” - **Sartre**
+> "Um amor, uma carreira, uma revolução: outras tantas lutas que se começam sem saber como acabarão” - **Sartre**
 
 >
 
