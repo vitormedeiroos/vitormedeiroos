@@ -17,17 +17,9 @@ Sou apaixonado por Ciência de Dados e análise de dados. Utilizo técnicas de p
 
 ## GitHub Stats
 
-### Card - Most Used Languages Compact
-
-| Preview | Parameters |
-|:-------:|:----------:|
-| ![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vitormedeiroos&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)| `layout=compact` `bg_color=000` `border_color=30A3DC` `title_color=E94D5F` `text_color=FFF`|
-
-```
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-```
 
 
+![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vitormedeiroos&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ## Habilidades
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
@@ -35,24 +27,10 @@ Sou apaixonado por Ciência de Dados e análise de dados. Utilizo técnicas de p
 
 ## Card - Repository
 
-| Preview | Parameters |
-|:-------:|:----------:|
-| [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=vitormedeiroos&repo=Python_mercado_financeiro&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/digitalinnovationone/roadmaps)| `bg_color=000` `border_color=30A3DC` `icon_color=30A3DC` `title_color=E94D5F` `text_color=FFF`|
 
-## Card - Repository
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=vitormedeiroos&repo=Python_mercado_financeiro&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/vitormedeiroos/Python_mercado_financeiro)
 
-| Preview | Parameters |
-|:-------:|:----------:|
-| [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=vitormedeiroos&repo=machine_learning_courses&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/digitalinnovationone/roadmaps)| `bg_color=000` `border_color=30A3DC` `icon_color=30A3DC` `title_color=E94D5F` `text_color=FFF`|
-
-```
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SEUUSERNAME&repo=SEUREPOSITORIO&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/SEUUSERNAME/SEUREPOSITORIO)
-```
-
-```
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SEUUSERNAME&repo=SEUREPOSITORIO&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/SEUUSERNAME/SEUREPOSITORIO)
-```
-
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=vitormedeiroos&repo=machine_learning_courses&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/vitormedeiroos/machine_learning_courses)
 
 
 ## With Me!
